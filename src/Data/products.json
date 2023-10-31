@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "CodWarzone",
+    "price": 4000,
+    "imgUrl": "./images/CodWarzone.png"
+  },
+  {
+    "id": 2,
+    "name": "Cod Zombies",
+    "price": 3800,
+    "imgUrl": "./images/Codzombies.png"
+  },
+  {
+    "id": 3,
+    "name": "Fifa 23",
+    "price": 5000,
+    "imgUrl": "./images/Fifa23.png"
+  },
+  {
+    "id": 4,
+    "name": "Fifa 24",
+    "price": 5500,
+    "imgUrl": "./images/Fifa24.png"
+  },
+  {
+    "id": 5,
+    "name": "GtaV",
+    "price": 3000,
+    "imgUrl": "./images/GtaV.png"
+  },
+  {
+    "id": 6,
+    "name": "Rocket",
+    "price": 0,
+    "imgUrl": "./images/Rocket.png"
+  },
+  {
+    "id": 7,
+    "name": "Ufc 5",
+    "price": 2500,
+    "imgUrl": "./images/Ufc5.png"
+    
+  }
+]
